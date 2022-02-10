@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KDATAML
-- 👀 I’m interested in Amazon PL FFA and DATA Scince hands-on training. 
+- 👀 I’m interested in DATA Scince hands-on training. 
 - 🌱 I’m currently learning Data Scince, CHAT BOTS and How to Build Freelancing Business. 
 - 💞️ I’m looking to collaborate on improvise my skills by hands-on training.
 - 📫 How to reach me ...iqbalkhurram494@gmail.com
