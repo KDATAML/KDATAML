@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KDATAML
-- 👀 I’m interested in DATA Scince hands-on training. 
+- 👋 Hi, I’m @Khurram Iqbal.
+- 👀 I’m working on DATA Scince Profile building n Github. 
 - 🌱 I’m currently learning Data Scince, CHAT BOTS and How to Build Freelancing Business. 
 - 💞️ I’m looking to collaborate on improvise my skills by hands-on training.
 - 📫 How to reach me ...iqbalkhurram494@gmail.com
